@@ -25,6 +25,10 @@ export const metadata: Metadata = {
     canonical: "/",
   },
 
+  verification: {
+    google: "cy2cVbdtVizxPNv899-J-zZoReWILIsLelMxAnJPCoI",
+  },
+
 
 
   robots: {
